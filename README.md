@@ -1,6 +1,6 @@
-#i   Starter Web Repo
+#  Starter Web Repo
 ie e ancora aggiungiamo questa linea per il rebasing e aggiungiamo quest'altra linea tanto per piacere
-sadsada:wq:wq:This repository is for showing how Git and GitHub work
+sadsada:wq:wq:This repository is for showing how Git and GitHub work. Updating for an emergency fix after our message
 
 ## Purpose
 
